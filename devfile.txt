@@ -5,5 +5,3 @@ o
 2nd commit for rebasing
 
 commit for cherry pick
-
-for revert
